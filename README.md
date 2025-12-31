@@ -6,6 +6,8 @@ Tool đớp video từ youtube - Tool nhận thông báo tức thời từ kênh
 
 Vui lòng liên hệ telegram @tdanghocode
 
+<img width="788" height="813" alt="image" src="https://github.com/user-attachments/assets/3e6fbadd-68d5-43c0-b5fa-41a14ad7b4e5" />
+
 ---
 
 ## 1️⃣ LẤY NGROK TOKEN
