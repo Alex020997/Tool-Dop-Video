@@ -46,7 +46,7 @@ Bước 2: Nhập vào Tool
 3️⃣  CÁCH SỬ DỤNG TOOL
 
 Bước 1: Cấu hình
-   ✓ Nhập Ngrok Token (bắt buộc)
+   ✓ Nhập Ngrok Token (bắt buộc)   
    ✓ Nhập Telegram Token và ID (tùy chọn)
 
 Bước 2: Thêm kênh YouTube cần theo dõi
