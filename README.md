@@ -1,8 +1,8 @@
 # Tool-Dop-Video
 Tool đớp video từ youtube - Tool nhận thông báo tức thời từ kênh youtube - Tool nhận thông báo và tải video từ youtube
+Vui lòng liên hệ telegram @tdanghocode
 
 1️⃣  LẤY NGROK TOKEN
-───────────────────────────────────────────────────────────────
 
 Bước 1: Đăng ký tài khoản Ngrok (miễn phí)
    → https://dashboard.ngrok.com/get-started/setup/windows  
@@ -12,13 +12,10 @@ Bước 2: Nhập Token vào Tool
    → Mở Tool → Nhập token vào ô "Ngrok Token"
    → Click "Save Token Ngrok"
 
-───────────────────────────────────────────────────────────────
-
 2️⃣  LẤY TELEGRAM BOT TOKEN VÀ TELEGRAM ID - BỎ QUA BƯỚC NÀY NẾU KO MUỐN NHẬN THÔNG BÁO TRÊN TELEGRAM
-───────────────────────────────────────────────────────────────
+
 
 📱 TẠO TELEGRAM BOT (Lấy Bot Token):
-───────────────────────────────────────────────────────────────
 
 Bước 1: Tìm BotFather trên Telegram
    → Mở Telegram → Tìm kiếm: @BotFather
@@ -34,10 +31,7 @@ Bước 3: Lấy Bot Token
    → BotFather sẽ trả về token (dạng: 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz)
    → Copy token này → Đây là Telegram Bot Token
 
-───────────────────────────────────────────────────────────────
-
 🆔 LẤY TELEGRAM ID CỦA BẠN:
-───────────────────────────────────────────────────────────────
 
 Bước 1: Dùng Bot @userinfobot
    → Mở Telegram → Tìm kiếm: @userinfobot
@@ -49,10 +43,7 @@ Bước 2: Nhập vào Tool
    → Nhập "Telegram ID" (ID của bạn từ các bot trên)
    → Click "Save token telegram"
 
-───────────────────────────────────────────────────────────────
-
 3️⃣  CÁCH SỬ DỤNG TOOL
-───────────────────────────────────────────────────────────────
 
 Bước 1: Cấu hình
    ✓ Nhập Ngrok Token (bắt buộc)
@@ -82,8 +73,6 @@ Bước 5: Dừng theo dõi
 
 
 💡 MẸO VÀ LƯU Ý:
-───────────────────────────────────────────────────────────────
-
 ✓ Ngrok Token chỉ cần nhập 1 lần, tool sẽ lưu vào config.txt
 ✓ Telegram Token và ID chỉ cần nhập 1 lần, tool sẽ lưu vào config.txt
 ✓ Danh sách kênh sẽ được lưu tự động, không cần thêm lại mỗi lần mở tool
@@ -92,11 +81,8 @@ Bước 5: Dừng theo dõi
 ✓ Đảm bảo máy tính có kết nối Internet để tool hoạt động
 ✓ Tool cần chạy liên tục để nhận thông báo video mới
 
-───────────────────────────────────────────────────────────────
-
 
 🔧 XỬ LÝ LỖI THƯỜNG GẶP:
-───────────────────────────────────────────────────────────────
 
 Lỗi: "Invalid channel ID"
    → Kiểm tra lại Channel ID có đúng không
@@ -112,17 +98,10 @@ Lỗi: Không nhận được thông báo Telegram
    → Đảm bảo đã gửi lệnh /start cho bot của bạn
    → Kiểm tra bot có bị chặn không
 
-───────────────────────────────────────────────────────────────
-
 📞 HỖ TRỢ:
-───────────────────────────────────────────────────────────────
-
-Nếu gặp vấn đề, vui lòng kiểm tra:
+Nếu gặp vấn đề: xem trước
    → Log trong cửa sổ tool để xem chi tiết lỗi
    → Đảm bảo đã cấu hình đúng các token và ID
    → Kiểm tra kết nối Internet và firewall
-
-═══════════════════════════════════════════════════════════════
-                    Chúc bạn sử dụng vui vẻ!
-═══════════════════════════════════════════════════════════════
+   → Vui lòng liên hệ telegram @tdanghocode
 
