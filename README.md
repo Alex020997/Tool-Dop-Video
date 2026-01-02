@@ -5,7 +5,7 @@ Tool đớp video từ youtube - Tool nhận thông báo tức thời từ kênh
 📥 **Tải về:** [Tool đớp video v1.0](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.0/tool_dop_video_v1.zip) 
 hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/releases)
 
-Vui lòng liên hệ telegram [https://t.me/@tdanghocode](https://t.me/@tdanghocode)
+Vui lòng liên hệ telegram [@tdanghocode](https://t.me/@tdanghocode)
 
 <img width="788" height="813" alt="image" src="https://github.com/user-attachments/assets/3e6fbadd-68d5-43c0-b5fa-41a14ad7b4e5" />
 
