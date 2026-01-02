@@ -2,12 +2,13 @@
 
 Tool đớp video từ youtube - Tool nhận thông báo tức thời từ kênh youtube - Tool nhận thông báo và tải video từ youtube
 
-📥 **Tải về:** [Tool đớp video v1.0](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.0/tool_dop_video_v1.zip) 
+📥 **Tải về:** [Tool đớp video v1.1](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.1/tool_tiktok_v1.1.zip) 
 hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/releases)
 
 Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
 
-<img width="788" height="813" alt="image" src="https://github.com/user-attachments/assets/3e6fbadd-68d5-43c0-b5fa-41a14ad7b4e5" />
+<img width="748" height="779" alt="image" src="https://github.com/user-attachments/assets/9132280a-a36e-487d-afa1-c3ef95c82a02" />
+
 
 ---
 
