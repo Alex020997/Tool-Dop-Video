@@ -2,7 +2,7 @@
 
 Tool nhận thông báo tức thời từ kênh youtube - Tool nhận thông báo video mới từ youtube KHÔNG CẦN API - Tool nhận thông báo và tải video từ youtube 
 
-📥 **Tải về:** [Tool theo dõi youtube v1.1](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.1/tool_theo_doi_youtube_v1.1.zip) 
+📥 **Tải về:** [Tool theo dõi youtube v1.2](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.2/tool_theo_doi_youtube_v1.2.zip) 
 hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/releases)
 
 Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
