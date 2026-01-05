@@ -1,4 +1,4 @@
-# Tool-Dop-Video
+# Tool nhận thông báo video mới từ youtube và tải về tức thời, ko cần API, ko giới hạn channel
 
 Tool nhận thông báo tức thời từ kênh youtube - Tool nhận thông báo video mới từ youtube KHÔNG CẦN API - Tool nhận thông báo và tải video từ youtube 
 
