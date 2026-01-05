@@ -39,6 +39,4 @@ Modern GUI tool to watch YouTube channels in real time, send Telegram alerts, an
 - If Ngrok download fails, place `ngrok.exe` manually into `tools/` and restart.
 - Telegram contact link in error dialogs is clickable; no “OK” click required to open.
 
-## Keywords (SEO)
-YouTube notifier Windows, CustomTkinter GUI, Telegram bot alerts, pyngrok Ngrok webhook, yt-dlp auto download, YouTube channel monitor, real-time YouTube upload alerts, GUI YouTube downloader, Ngrok download fallback, Windows desktop YouTube notifier
 
