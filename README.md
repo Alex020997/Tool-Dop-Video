@@ -125,3 +125,5 @@ Nếu gặp vấn đề:
 → Kiểm tra kết nối Internet và firewall  
 → Vui lòng liên hệ telegram @tdanghocode
 
+YouTube notifier Windows, CustomTkinter GUI, Telegram bot alerts, pyngrok Ngrok webhook, yt-dlp auto download, YouTube channel monitor, real-time YouTube upload alerts, GUI YouTube downloader, Ngrok download fallback, Windows desktop YouTube notifier
+
