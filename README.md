@@ -1,8 +1,11 @@
 # Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔNG CẦN API, tải và upload lên Tiktok. Không giới hạn kênh
 
 Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔNG CẦN API, tải và upload lên Tiktok. Không giới hạn kênh
+
 💰💲 💰💲 💰💲 Bảng giá : 
+
 🔔 📥 Nhận thông báo và tải 4USD/THÁNG - Thanh toán paypal - 3 ngày dùng thử tự động
+
 🖼️ 📤 Render và upload: 40USD/THÁNG - Thanh toán paypal - VĨNH VIỄN : 800USD
 
 
