@@ -9,7 +9,7 @@ Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔ
 🖼️ 📤 Render và upload: 40USD/THÁNG - Thanh toán paypal - VĨNH VIỄN : 800USD
 
 
-📥 **Tải về:** [Tool theo dõi youtube v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.2/tool_theo_doi_youtube_v1.2.zip) 
+📥 **Tải về:** [Tool theo dõi youtube v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.2/tool_theo_doi_youtube_v1.3.zip) 
 hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/releases)
 
 Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
