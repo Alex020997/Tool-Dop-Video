@@ -4,9 +4,9 @@ Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔ
 
 💰💲 💰💲 💰💲 Bảng giá : 
 
-🔔 📥 Nhận thông báo và tải 4USD/THÁNG - Thanh toán paypal - 3 ngày dùng thử tự động
+🔔 📥 Nhận thông báo và tải 3.9 USD/THÁNG - Thanh toán PAYPAL - 3 ngày dùng thử (KHÔNG CẦN LIÊN HỆ ACTIVE)
 
-🖼️ 📤 Render và upload: 40USD/THÁNG - Thanh toán paypal - VĨNH VIỄN : 800USD
+🖼️ 📤 Render và upload: 39 USD/THÁNG - Thanh toán PAYPAL - VĨNH VIỄN : 399 USD 
 
 
 📥 **Tải về:** [Tool theo dõi youtube v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.2/tool_theo_doi_youtube_v1.3.zip) 
@@ -60,24 +60,27 @@ Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram
 
 ✓ Nhập Telegram Token và ID (tùy chọn)
 
-**Bước 2: Thêm kênh YouTube cần theo dõi**
+**Bước 1: Thêm kênh YouTube cần theo dõi**
 
 → Nhập Kênh Youtube hoặc link video youtube hoặc Channel ID vào ô "Channel ID/URL"  
 → Click "Đăng ký"  
 → Nếu nhiều channel thì cách nhau bởi dấu `,`
 
 
-**Bước 3: Bắt đầu theo dõi**
+**Bước 2: Bắt đầu theo dõi**
 
 → Click nút "Bắt Đầu Theo Dõi" (màu xanh)  
-→ Tool sẽ đăng ký webhook và bắt đầu theo dõi các kênh  
-→ Khi có video mới, bạn sẽ nhận thông báo ở chương trình và telegram
+→ Tool sẽ đăng ký kênh với web server và bắt đầu theo dõi các kênh  
+→ Khi có video mới, bạn sẽ nhận thông báo ở chương trình và telegram)
 
-**Bước 4: Tùy chọn - Tải video tự động**
+**Bước 3: Tùy chọn - Tải video tự động - RENDER - UPLOAD**
 
 → Tick vào "Tải video" nếu muốn tự động tải video mới  
 → Chọn độ phân giải: 1080p, 720p, 480p, hoặc 360p  
 → Video sẽ được tải vào thư mục "downloads" trong thư mục chứa tool
+💡💡💡 TÍNH NĂNG TRẢ PHÍ 💡💡💡
+→ Render từ video ngang 16:9 sang 9:16. Chia part nếu video dài
+→ Upload lên tiktok nếu có  license
 
 **Bước 5: Dừng theo dõi**
 
