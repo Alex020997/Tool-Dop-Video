@@ -9,7 +9,7 @@ Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔ
 🖼️ 📤 Render và upload: 39 USD/THÁNG - Thanh toán PAYPAL - VĨNH VIỄN : 399 USD 
 
 
-📥 **Tải về:** [Tool Tiktok AIO v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.3/TiktokAIO-v1.3.zip) 
+## 1️⃣📥 **Tải về:** [Tool Tiktok AIO v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.3/TiktokAIO-v1.3.zip) 
 hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/releases)
 
 Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
@@ -54,8 +54,6 @@ Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram
 → Nhập "Telegram ID" (ID của bạn từ các bot trên)  
 → Click "Save token telegram"
 
----
-
 ## 3️⃣ CÁCH SỬ DỤNG TOOL
 
 ✓ Nhập Telegram Token và ID (tùy chọn)
@@ -82,14 +80,23 @@ Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram
 → Render từ video ngang 16:9 sang 9:16. Chia part nếu video dài
 → Upload lên tiktok nếu có  license
 
-**Bước 5: Dừng theo dõi**
+💡💡💡 CÁCH LƯU COOKIE VÀ SET AUTO UPLOAD ACC LÊN TIKTOK
+- DÙNG ĐƯỢC TẤT CẢ CÁC ACC DÙNG GOLOGIN - GPMLOGIN - ANTIDETECT BROWSER - CHROME, EDGE, BRAVE ....
+- Cài đặt extension COOKIE-EDITOR: https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1
+- Đăng nhập acc vào tiktok, truy cập vào mục upload video của tiktok, truy cập vào COOKIE-EDITOR vừa cài, chọn EXPORT ==> chọn JSON ==> mở notepad lên , dán vào notepad, lưu vào folder cookies (bắt buộc) ==> ví dụ acc261
+- Làm tương tự cho tất cả các acc khác
+<img width="617" height="575" alt="image" src="https://github.com/user-attachments/assets/f9946fd3-60dd-4846-8764-ebd72d9f2ded" />
+- Khai báo kênh theo dõi cho acc vừa export cookie bằng cách nhấn đúp (double click) vào cột tự động upload, dòng kênh muốn auto upload, khai báo tên file cookie đã lưu trong folder cookies ==> ok ==> checked vào ô AUTO UPLOAD (nếu muốn render xong mới auto upload thì checked vào)
+<img width="724" height="143" alt="image" src="https://github.com/user-attachments/assets/50d59784-afcd-4a97-b6ba-62f2a9d4ca6f" />
 
-→ Click nút "Dừng" (màu đỏ) để dừng theo dõi  
-→ Hoặc chọn kênh cần hủy, sau đó click "Hủy Đăng Ký Kênh Nhận Thông Báo" để xóa kênh khỏi danh sách
 
----
 
-## 💡 MẸO VÀ LƯU Ý:
+**Bước 4: Dừng theo dõi**
+
+→ Click nút "Dừng" (màu đỏ) để dừng theo dõi toàn bộ kênh
+→ Hoặc chọn kênh ko muốn theo dõi nữa, click chọn "Hủy Theo Dõi"
+
+## 💡 LƯU Ý:
 
 ✓ Telegram Token và ID chỉ cần nhập 1 lần, tool sẽ lưu vào config.txt  
 ✓ Danh sách kênh sẽ được lưu tự động, không cần thêm lại mỗi lần mở tool  
@@ -101,12 +108,7 @@ Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram
 
 ## 📞 HỖ TRỢ:
 
-Nếu gặp vấn đề:
-
-→ Log trong cửa sổ tool để xem chi tiết lỗi  
-→ Đảm bảo đã cấu hình đúng các token và ID  
-→ Kiểm tra kết nối Internet và firewall  
-→ Vui lòng liên hệ telegram @tdanghocode
+Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
 
 YouTube notifier Windows, CustomTkinter GUI, Telegram bot alerts, pyngrok Ngrok webhook, yt-dlp auto download, YouTube channel monitor, real-time YouTube upload alerts, GUI YouTube downloader, Ngrok download fallback, Windows desktop YouTube notifier
 
