@@ -14,7 +14,8 @@ hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/re
 
 Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
 
-<img width="753" height="825" alt="image" src="https://github.com/user-attachments/assets/f62fa2d5-f994-44ae-a4cd-d2a05ef149b6" />
+<img width="749" height="784" alt="image" src="https://github.com/user-attachments/assets/b6e9cb62-835c-4884-8ebd-59f0cac83157" />
+
 
 ## 2️⃣ LẤY TELEGRAM BOT TOKEN VÀ TELEGRAM ID
 
