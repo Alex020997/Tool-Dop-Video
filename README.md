@@ -1,4 +1,4 @@
-# Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔNG CẦN API, tải và upload lên Tiktok. Không giới hạn kênh
+# Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔNG CẦN API, TỰ ĐỘNG TẢI và TỰ ĐỘNG UPLOAD lên Tiktok. Không giới hạn kênh
 Vui lòng liên hệ telegram [![Telegram](https://img.shields.io/badge/Telegram-@tdanghocode-blue?style=for-the-badge&logo=telegram)](https://t.me/tdanghocode)
 
 Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔNG CẦN API, tải và upload lên Tiktok. Không giới hạn kênh 
