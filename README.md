@@ -6,8 +6,7 @@ Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔ
 💰💲 💰💲 💰💲 Bảng giá
 
 🔔 📥 Nhận thông báo và tải 3.9 USD/THÁNG - Thanh toán PAYPAL - 3 ngày dùng thử (KHÔNG CẦN LIÊN HỆ ACTIVE)
-
-🖼️ 📤 Render và upload: 39 USD/THÁNG - Thanh toán PAYPAL - VĨNH VIỄN : 399 USD 
+🖼️ 📤 Render và upload - đang test 1 số bạn
 
 
 ## 1️⃣📥 **Tải về:** [Tool Tiktok AIO v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.3/TiktokAIO-v1.3.zip) 
