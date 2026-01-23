@@ -73,9 +73,6 @@ hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/re
 → Tick vào "Tải video" nếu muốn tự động tải video mới  
 → Chọn độ phân giải: 1080p, 720p, 480p, hoặc 360p  
 → Video sẽ được tải vào thư mục "downloads" trong thư mục chứa tool
-💡💡💡 TÍNH NĂNG TRẢ PHÍ 💡💡💡
-→ Render từ video ngang 16:9 sang 9:16. Chia part nếu video dài
-→ Upload lên tiktok nếu có  license
 
 **Bước 4: Dừng theo dõi**
 
