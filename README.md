@@ -6,7 +6,6 @@ Tool tự động nhận thông báo video mới từ youtube tức thời, KHÔ
 💰💲 💰💲 💰💲 Bảng giá
 
 🔔 📥 Nhận thông báo và tải 3.9 USD/THÁNG - Thanh toán PAYPAL - 3 ngày dùng thử (KHÔNG CẦN LIÊN HỆ ACTIVE)
-🖼️ 📤 Render và upload - đang test 1 số bạn
 
 
 ## 1️⃣📥 **Tải về:** [Tool Tiktok AIO v1.3](https://github.com/Alex020997/Tool-Dop-Video/releases/download/v1.3/TiktokAIO-v1.3.zip) 
@@ -77,15 +76,6 @@ hoặc [Xem tất cả Releases](https://github.com/Alex020997/Tool-Dop-Video/re
 💡💡💡 TÍNH NĂNG TRẢ PHÍ 💡💡💡
 → Render từ video ngang 16:9 sang 9:16. Chia part nếu video dài
 → Upload lên tiktok nếu có  license
-
-💡💡💡 CÁCH LƯU COOKIE VÀ SET AUTO UPLOAD ACC LÊN TIKTOK
-- DÙNG ĐƯỢC TẤT CẢ CÁC ACC DÙNG GOLOGIN - GPMLOGIN - ANTIDETECT BROWSER - CHROME, EDGE, BRAVE ....
-- Cài đặt extension COOKIE-EDITOR: https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1
-- Đăng nhập acc vào tiktok, truy cập vào mục upload video của tiktok, truy cập vào COOKIE-EDITOR vừa cài, chọn EXPORT ==> chọn JSON ==> mở notepad lên , dán vào notepad, lưu vào folder cookies (bắt buộc) ==> ví dụ acc261
-- Làm tương tự cho tất cả các acc khác
-<img width="617" height="575" alt="image" src="https://github.com/user-attachments/assets/f9946fd3-60dd-4846-8764-ebd72d9f2ded" />
-- Khai báo kênh theo dõi cho acc vừa export cookie bằng cách nhấn đúp (double click) vào cột tự động upload, dòng kênh muốn auto upload, khai báo tên file cookie đã lưu trong folder cookies ==> ok ==> checked vào ô AUTO UPLOAD (nếu muốn render xong mới auto upload thì checked vào)
-<img width="731" height="225" alt="image" src="https://github.com/user-attachments/assets/87d93c43-63fe-4c07-b43e-1309a5a9aefe" />
 
 **Bước 4: Dừng theo dõi**
 
